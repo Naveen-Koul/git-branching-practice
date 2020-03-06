@@ -17,4 +17,5 @@ Q. What is the largest planet in the solar system?
 A. Jupiter.
 Questions
 
-Q1What are the number of continents?
+Q1What are the number of continents? 
+Q2What is the capital of Canada?
