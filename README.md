@@ -20,4 +20,4 @@ Questions
 Q1What are the number of continents? 
 Q2What is the capital of Canada?
 Q3Who is the PrimeMinister of India?
-
+A. Narendra Modi
