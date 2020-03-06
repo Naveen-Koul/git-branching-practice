@@ -18,3 +18,4 @@ A. Jupiter.
 Questions
 
 Q1What are the number of continents?
+A. There are 7 continents.
